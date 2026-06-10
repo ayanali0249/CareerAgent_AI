@@ -1,0 +1,168 @@
+# Requirements
+
+## System Requirements
+
+### Hardware Requirements
+
+* Processor: Intel Core i3 or above
+* RAM: Minimum 4 GB (Recommended 8 GB+)
+* Storage: Minimum 500 MB free disk space
+* Internet Connection: Required for email verification and deployment
+
+### Software Requirements
+
+* Operating System:
+
+  * Windows 10/11
+  * Linux
+  * macOS
+
+* Python Version:
+
+  * Python 3.10 or higher
+
+* Database:
+
+  * MySQL 8.0+
+
+* Development Environment:
+
+  * Visual Studio Code (Recommended)
+  * PyCharm (Optional)
+
+---
+
+## Python Dependencies
+
+```txt
+streamlit
+sqlalchemy
+mysql-connector-python
+plotly
+python-dotenv
+werkzeug
+python-docx
+pdfplumber
+reportlab
+pandas
+numpy
+```
+
+---
+
+## Required Python Libraries
+
+### Frontend & Dashboard
+
+* Streamlit
+* Plotly
+
+### Database Management
+
+* SQLAlchemy
+* MySQL Connector
+
+### Resume Processing
+
+* pdfplumber
+* python-docx
+
+### AI & Skill Analysis
+
+* Pandas
+* NumPy
+
+### Report Generation
+
+* ReportLab
+
+### Security & Authentication
+
+* Werkzeug
+* Python Dotenv
+
+---
+
+## Environment Variables
+
+Create a `.env` file in the project root directory:
+
+```env
+EMAIL_ADDRESS=your_email@gmail.com
+EMAIL_PASSWORD=your_app_password
+
+DB_USERNAME=root
+DB_PASSWORD=your_password
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=resume_analyzer
+
+SECRET_KEY=your_secret_key
+```
+
+---
+
+## Installation
+
+Install all required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install manually:
+
+```bash
+pip install streamlit sqlalchemy mysql-connector-python plotly python-dotenv werkzeug python-docx pdfplumber reportlab pandas numpy
+```
+
+---
+
+## Database Setup
+
+1. Install MySQL Server.
+2. Create a database named:
+
+```sql
+CREATE DATABASE resume_analyzer;
+```
+
+3. Configure database credentials in `.env`.
+4. Initialize database tables:
+
+```bash
+python init_db.py
+```
+
+---
+
+## Running the Project
+
+```bash
+streamlit run app.py
+```
+
+The application will be available at:
+
+```text
+http://localhost:8501
+```
+
+---
+
+## Browser Support
+
+* Google Chrome (Recommended)
+* Microsoft Edge
+* Mozilla Firefox
+* Brave Browser
+
+---
+
+## Recommended Deployment Platforms
+
+* Streamlit Community Cloud
+* Render
+* Railway
+* AWS EC2
+* Azure App Service
