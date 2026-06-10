@@ -1,4 +1,4 @@
-# 🚀 CareerAgent AI
+#  CareerAgent AI
 
 Welcome to **CareerAgent AI**, an intelligent AI-powered career development platform designed to help students, job seekers, and professionals optimize their resumes, improve ATS compatibility, identify skill gaps, and accelerate career growth.
 
@@ -93,7 +93,7 @@ CareerAgent_AI/
 
 # Features
 
-## 🔐 Authentication System
+##  Authentication System
 
 * User Registration
 * Secure Login
@@ -102,7 +102,7 @@ CareerAgent_AI/
 * Account Management
 * Logout Functionality
 
-## 📄 Resume Analysis
+##  Resume Analysis
 
 * PDF Resume Support
 * DOCX Resume Support
@@ -111,21 +111,21 @@ CareerAgent_AI/
 * Skill Extraction
 * Resume Intelligence Processing
 
-## 🎯 ATS Score Analysis
+##  ATS Score Analysis
 
 * ATS Compatibility Score
 * Resume Readiness Assessment
 * Skill Matching Analysis
 * Missing Skills Detection
 
-## 💼 Job Role Matching
+##  Job Role Matching
 
 * Search Job Roles
 * Intelligent Role Recommendations
 * Job-Specific Skill Matching
 * Career Readiness Evaluation
 
-## 📊 Interactive Analytics Dashboard
+##  Interactive Analytics Dashboard
 
 * ATS Score Metrics
 * Interactive Gauge Visualization
@@ -133,27 +133,27 @@ CareerAgent_AI/
 * Resume Performance Analytics
 * Career Growth Insights
 
-## 🤖 AI Career Insights
+##  AI Career Insights
 
 * Skill Gap Detection
 * Personalized Learning Recommendations
 * Career Development Suggestions
 * Professional Growth Guidance
 
-## 🛣 Career Roadmap Generator
+##  Career Roadmap Generator
 
 * Career Readiness Assessment
 * Estimated Learning Timeline
 * Recommended Skills to Learn
 * Goal-Oriented Career Planning
 
-## 🎤 Interview Preparation
+##  Interview Preparation
 
 * Role-Based Interview Guidance
 * Technical Interview Preparation
 * Career Readiness Evaluation
 
-## 📑 Professional Reports
+##  Professional Reports
 
 * Downloadable PDF Reports
 * Resume Analysis Summary
@@ -290,13 +290,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Contact
 
-* 📧 Email: [ayanali0249@gmail.com](mailto:ayanali0249@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/ayanali0249
-* 💻 GitHub: https://github.com/ayanali0249
-* 🌐 Portfolio: https://ayan-ali-0249.netlify.app
+*  Email: [ayanali0249@gmail.com](mailto:ayanali0249@gmail.com)
+*  LinkedIn: https://linkedin.com/in/ayanali0249
+*  GitHub: https://github.com/ayanali0249
+*  Portfolio: https://ayan-ali-0249.netlify.app
 
 ---
 
 <p align="center">
-  <strong>🚀 Designed & Developed by Ayan Ali</strong>
+  <strong> Designed & Developed by Ayan Ali</strong>
 </p>
